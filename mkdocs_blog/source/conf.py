@@ -29,7 +29,7 @@ language = 'zh_CN'
 #html_theme = 'alabaster'
 html_theme = 'default'
 # html主题的相关设置
-html_theme_options = {"collapse_navigation": False, "navigation_depth": 6}
+#html_theme_options = {"collapse_navigation": False, "navigation_depth": 6}
 html_static_path = ['_static']
 
 # 在页面底部显示上一次更新于某某时间
