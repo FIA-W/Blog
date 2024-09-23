@@ -17,9 +17,6 @@ config_db知识思维导图
 后台操作
 set()通过层次和变量名，将这些信息存放到uvm_pkg唯一的全局变量uvm_pkg::uvm_resources
 
-Code Example
-============
-
 Here is a Python code example:
 
 .. code-block:: python
