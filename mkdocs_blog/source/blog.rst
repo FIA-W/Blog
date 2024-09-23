@@ -26,3 +26,7 @@ Here is a Python code example:
 
    def hello_world():
        print("Hello, World!")
+
+1.2 传递参数
+-----------------
+set函数范式uvm_config_db #(传输数据类型)：：set(发送源地址，“相对于发送源的接收方地址”， “传输数据名称”，传输数据内容）；set:自顶向下set，如从top_tb向下driver设置参数,即在top_tb中进行set。
