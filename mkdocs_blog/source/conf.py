@@ -36,7 +36,7 @@ html_static_path = ['_static']
 html_last_updated_fmt = "%Y-%m-%d %H:%M:%S"
 
 # 图形、表格、代码块如果有标题，自动添加编号, 默认为False
-numfig = True
+#numfig = True
 
 # 默认的源代码高亮的语言，默认值为default， 类似于python3
 highlight_language = 'default'
